@@ -1,0 +1,6 @@
+title: "Geography 176A"
+author: "Xingxin Li"
+subtitle: 'Lab 02: COVID-19 Pandemic'
+output:
+  html_document:
+    theme: journal
