@@ -1,6 +1,17 @@
-title: "Geography 176A"
+name: "Geogrpahy 176A - LAb02"
 author: "Xingxin Li"
 subtitle: 'Lab 02: COVID-19 Pandemic'
+navbar:
+
+  title: "My First Website"
+  left:
+    - text: "Lab_02"
+      icon: fa-pencil-ruler
+      href: Lab_02.html
+
+  right:
+    - icon: fa-github
+      href: https://github.com/ousdon/geog176a-lab1
 output:
   html_document:
-    theme: journal
+    theme: simplex
