@@ -4,7 +4,7 @@ navbar:
   title: "My Lab 2"
   left:
     - text: "Lab 2"
-      href: Lab_02.html
+      href: lab02.html
   right:
     - icon: fa-github
       href: https://github.com/ousdon/geog176a-lab2
