@@ -3,7 +3,7 @@ author: "Xingxin Li"
 output_dir: "."
 navbar:
 
-  title: "My First Website"
+  title: "Lab No.2"
   left:
     - text: "Lab_02"
       icon: fa-pencil-ruler

@@ -174,4 +174,4 @@ four_states_pc <- population_2019 %>%
   facet_grid(~Area_Name, scales = "free_y") 
 ```
 
-The absolute value of new cases in Louisiana is much lower than the other states. However, the new cases per capita in Louisiana is close to the other states. The possible reason is that Louisiana has a much smaller populaition compared with other states.
+The absolute value of new cases in Louisiana is much lower than the other three states. However, the new cases per capita in Louisiana is close to the other states. The possible reason is that Louisiana has a much smaller populaition compared with other states.
